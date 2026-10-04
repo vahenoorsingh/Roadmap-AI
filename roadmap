@@ -1,0 +1,17 @@
+digraph {
+	1 [label="Python Basics"]
+	2 [label="Data Structures"]
+	3 [label=Algorithms]
+	4 [label="Object-Oriented Programming"]
+	5 [label="File Input/Output"]
+	6 [label="Exception Handling"]
+	7 [label="Testing and Debugging"]
+	8 [label="Backend Frameworks"]
+	1 -> 2
+	2 -> 3
+	1 -> 5
+	2 -> 6
+	6 -> 7
+	3 -> 8
+	7 -> 8
+}
