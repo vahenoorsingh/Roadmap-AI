@@ -1,6 +1,3 @@
-Here is the complete README in one single block. You can copy this entire thing and paste it directly into your `README.md` file on GitHub.
-
-````markdown
 # 🗺️ Roadmap AI
 
 Generate interactive, visual learning roadmaps locally using open-weight LLMs.
@@ -32,7 +29,6 @@ Turns a vague goal like _"I want to become a machine learning engineer"_ into a 
    ```bash
    ollama pull llama3.1
    ```
-````
 
 ### Installation
 
@@ -84,7 +80,3 @@ Open innovation made this project possible. Because the model runs locally via O
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-```
-
-```
