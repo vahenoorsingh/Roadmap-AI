@@ -61,13 +61,7 @@ Turns a vague goal like _"I want to become a machine learning engineer"_ into a 
 3. Open your browser to `http://localhost:8501`.
 4. Enter your current knowledge in the sidebar, type your goal in the chat, and watch your roadmap appear!
 
-**Try this prompt for the best results:**
-
-> _"I want to become a Data Analyst. I already know basic Python and SQL. Skip the absolute basics and focus on statistical modeling, visualization, and data cleaning tools."_
-
 ## 📸 Screenshots
-
-<!-- Add a screenshot of your graph here! -->
 
 ![Roadmap AI Demo](demo.png)
 
